@@ -14,7 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 -- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 🌱 I’m currently learning **Javascript,**
+- 🌱 I’m currently learning **Next Js,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Level237?tab=repositories](https://github.com/Level237?tab=repositories)
 
